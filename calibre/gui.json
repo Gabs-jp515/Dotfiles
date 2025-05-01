@@ -1,0 +1,990 @@
+{
+  "basic_metadata_widget_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAADAAAA6QAAAWMAAAEKAf////8BAAAAAQA="
+  },
+  "book_info_dialog_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABXgAAAV4B/////wEAAAABAA=="
+  },
+  "book_list_pin_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABAAAAAEYA/////wEAAAABAA=="
+  },
+  "bulk_metadata_window_tab": 0,
+  "catalog_bibtex_addfiles": false,
+  "catalog_bibtex_bib_cit": "{authors}{id}",
+  "catalog_bibtex_bib_entry": 0,
+  "catalog_bibtex_bibfile_enc": 0,
+  "catalog_bibtex_bibfile_enctag": 0,
+  "catalog_bibtex_db_fields": [
+    "title",
+    "title_sort",
+    "author_sort",
+    "authors",
+    "comments",
+    "cover",
+    "formats",
+    "id",
+    "isbn",
+    "library_name",
+    "ondevice",
+    "pubdate",
+    "publisher",
+    "rating",
+    "series_index",
+    "series",
+    "size",
+    "tags",
+    "timestamp",
+    "uuid",
+    "languages",
+    "identifiers"
+  ],
+  "catalog_bibtex_impcit": true,
+  "catalog_csv_xml_db_fields": [
+    "author_sort",
+    "authors",
+    "comments",
+    "cover",
+    "timestamp",
+    "formats",
+    "isbn",
+    "id",
+    "identifiers",
+    "languages",
+    "library_name",
+    "ondevice",
+    "pubdate",
+    "publisher",
+    "rating",
+    "series",
+    "series_index",
+    "size",
+    "tags",
+    "title",
+    "title_sort",
+    "uuid"
+  ],
+  "catalog_csv_xml_db_fields_sort_order": {
+    "author_sort": 0,
+    "authors": 1,
+    "comments": 2,
+    "cover": 3,
+    "formats": 5,
+    "id": 7,
+    "identifiers": 8,
+    "isbn": 6,
+    "languages": 9,
+    "library_name": 10,
+    "ondevice": 11,
+    "pubdate": 12,
+    "publisher": 13,
+    "rating": 14,
+    "series": 15,
+    "series_index": 16,
+    "size": 17,
+    "tags": 18,
+    "timestamp": 4,
+    "title": 19,
+    "title_sort": 20,
+    "uuid": 21
+  },
+  "cover_grid_background": {
+    "dark": [
+      45,
+      45,
+      45
+    ],
+    "dark_texture": null,
+    "light": [
+      80,
+      80,
+      80
+    ],
+    "light_texture": null,
+    "migrated": true
+  },
+  "create_empty_copy_dup_formats": false,
+  "create_empty_format_file": "epub",
+  "custom_colors_for_color_dialog": [
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ]
+  ],
+  "general_category_editor_row_height": 30,
+  "geometry-of-book_info_dialog_geometry": {
+    "frame_geometry": {
+      "height": 668,
+      "width": 700,
+      "x": 323,
+      "y": 28
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 668,
+      "width": 700,
+      "x": 323,
+      "y": 28
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 668,
+      "width": 700,
+      "x": 323,
+      "y": 28
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAFDAAAAHAAAA/4AAAK3AAABQwAAABwAAAP+AAACtwAAAAAAAAAABVYAAAFDAAAAHAAAA/4AAAK3"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "ZTR",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1368,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-bulk_metadata_window_geometry": {
+    "frame_geometry": {
+      "height": 724,
+      "width": 1296,
+      "x": 25,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 696,
+      "width": 1296,
+      "x": 25,
+      "y": 28
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 696,
+      "width": 1296,
+      "x": 25,
+      "y": 28
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAZAAAAAAAABSgAAALTAAAAGQAAABwAAAUoAAAC0wAAAAAAAAAABVYAAAAZAAAAHAAABSgAAALT"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "ZTR",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1368,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-calibre_main_window_geometry": {
+    "frame_geometry": {
+      "height": 724,
+      "width": 1366,
+      "x": 0,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 696,
+      "width": 1366,
+      "x": 0,
+      "y": 28
+    },
+    "maximized": true,
+    "normal_geometry": {
+      "height": 696,
+      "width": 1366,
+      "x": 0,
+      "y": 28
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAALTAAAAAAAAABwAAAVVAAAC0wAAAAACAAAABVYAAAAAAAAAHAAABVUAAALT"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "ZTR",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1368,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-convert_bulk_dialog_geom": {
+    "frame_geometry": {
+      "height": 668,
+      "width": 1296,
+      "x": 25,
+      "y": 28
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 668,
+      "width": 1296,
+      "x": 25,
+      "y": 28
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 668,
+      "width": 1296,
+      "x": 25,
+      "y": 28
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAZAAAAHAAABSgAAAK3AAAAGQAAABwAAAUoAAACtwAAAAAAAAAABVYAAAAZAAAAHAAABSgAAAK3"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "ZTR",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1368,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-convert_single_dialog_geom": {
+    "frame_geometry": {
+      "height": 696,
+      "width": 1296,
+      "x": 25,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 668,
+      "width": 1296,
+      "x": 25,
+      "y": 28
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 668,
+      "width": 1296,
+      "x": 25,
+      "y": 28
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAZAAAAAAAABSgAAAK3AAAAGQAAABwAAAUoAAACtwAAAAAAAAAABVYAAAAZAAAAHAAABSgAAAK3"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "ZTR",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1368,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-create-virtual-library-dialog": {
+    "frame_geometry": {
+      "height": 352,
+      "width": 755,
+      "x": 296,
+      "y": 160
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 352,
+      "width": 755,
+      "x": 296,
+      "y": 160
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 352,
+      "width": 755,
+      "x": 296,
+      "y": 160
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAEoAAAAoAAABBoAAAH/AAABKAAAAKAAAAQaAAAB/wAAAAAAAAAABVYAAAEoAAAAoAAABBoAAAH/"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "ZTR",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1368,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-duplicates-question-dialog-geometry": {
+    "frame_geometry": {
+      "height": 408,
+      "width": 522,
+      "x": 402,
+      "y": 78
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 380,
+      "width": 522,
+      "x": 402,
+      "y": 106
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 380,
+      "width": 522,
+      "x": 402,
+      "y": 106
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAGSAAAATgAAA5sAAAHlAAABkgAAAGoAAAObAAAB5QAAAAAAAAAABVYAAAGSAAAAagAAA5sAAAHl"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "ZTR",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1368,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-job-detail-view-dialog-geometry": {
+    "frame_geometry": {
+      "height": 528,
+      "width": 700,
+      "x": 313,
+      "y": 18
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 500,
+      "width": 700,
+      "x": 313,
+      "y": 46
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 500,
+      "width": 700,
+      "x": 313,
+      "y": 46
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAE5AAAAEgAAA/QAAAIhAAABOQAAAC4AAAP0AAACIQAAAAAAAAAABVYAAAE5AAAALgAAA/QAAAIh"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "ZTR",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1368,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-jobs_dialog_geometry": {
+    "frame_geometry": {
+      "height": 342,
+      "width": 354,
+      "x": 496,
+      "y": 165
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 342,
+      "width": 354,
+      "x": 496,
+      "y": 165
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 342,
+      "width": 354,
+      "x": 496,
+      "y": 165
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAHwAAAApQAAA1EAAAH6AAAB8AAAAKUAAANRAAAB+gAAAAAAAAAABVYAAAHwAAAApQAAA1EAAAH6"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "ZTR",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1368,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-manage_authors_dialog_geometry": {
+    "frame_geometry": {
+      "height": 333,
+      "width": 750,
+      "x": 0,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 333,
+      "width": 750,
+      "x": 0,
+      "y": 0
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 333,
+      "width": 750,
+      "x": 0,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAAAu0AAAFMAAAAAAAAAAAAAALtAAABTAAAAAAAAAAABVYAAAAAAAAAAAAAAu0AAAFM"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "ZTR",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1368,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-metasingle_window_geometry3": {
+    "frame_geometry": {
+      "height": 724,
+      "width": 1296,
+      "x": 25,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 696,
+      "width": 1296,
+      "x": 25,
+      "y": 28
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 696,
+      "width": 1296,
+      "x": 25,
+      "y": 28
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAZAAAAAAAABSgAAALTAAAAGQAAABwAAAUoAAAC0wAAAAAAAAAABVYAAAAZAAAAHAAABSgAAALT"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "ZTR",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1368,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-preferences dialog geometry": {
+    "frame_geometry": {
+      "height": 724,
+      "width": 930,
+      "x": 208,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 696,
+      "width": 930,
+      "x": 208,
+      "y": 28
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 696,
+      "width": 930,
+      "x": 208,
+      "y": 28
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAADQAAAAAAAABHEAAALTAAAA0AAAABwAAARxAAAC0wAAAAAAAAAABVYAAADQAAAAHAAABHEAAALT"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "ZTR",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1368,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-scheduler_dialog_geometry": {
+    "frame_geometry": {
+      "height": 628,
+      "width": 800,
+      "x": 273,
+      "y": 16
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 600,
+      "width": 800,
+      "x": 273,
+      "y": 44
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 600,
+      "width": 800,
+      "x": 273,
+      "y": 44
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAERAAAAEAAABDAAAAKDAAABEQAAACwAAAQwAAACgwAAAAAAAAAABVYAAAERAAAALAAABDAAAAKD"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "ZTR",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1368,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-single-cover-fetch-dialog-geometry": {
+    "frame_geometry": {
+      "height": 288,
+      "width": 296,
+      "x": 515,
+      "y": 192
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 288,
+      "width": 296,
+      "x": 515,
+      "y": 192
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 288,
+      "width": 296,
+      "x": 515,
+      "y": 192
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAIDAAAAwAAAAyoAAAHfAAACAwAAAMAAAAMqAAAB3wAAAAAAAAAABVYAAAIDAAAAwAAAAyoAAAHf"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "ZTR",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1368,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "grid view visible": false,
+  "jobs view column layout3": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfQAAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAAAAAAAAAA=="
+  },
+  "library_usage_stats": {
+    "/home/gabriel-sousa/Calibre Library": 8
+  },
+  "main_window_central_widget_state": {
+    "layout": "wide",
+    "narrow_desires": {
+      "book_details_height": 0.23059866962305986,
+      "cover_browser_width": 0.3494704992435703,
+      "quick_view_height": 0.25609756097560976,
+      "tag_browser_width": 0.24962178517397882
+    },
+    "narrow_visibility": {
+      "book_details": true,
+      "book_list": true,
+      "cover_browser": false,
+      "quick_view": false,
+      "tag_browser": true
+    },
+    "wide_desires": {
+      "book_details_width": 0.29954614220877457,
+      "cover_browser_height": 0.28600823045267487,
+      "quick_view_height": 0.23765432098765432,
+      "tag_browser_width": 0.29954614220877457
+    },
+    "wide_visibility": {
+      "book_details": true,
+      "book_list": true,
+      "cover_browser": false,
+      "quick_view": false,
+      "tag_browser": true
+    }
+  },
+  "manage_authors_table_widths": [
+    140,
+    140,
+    140,
+    140,
+    140
+  ],
+  "previous_sort_order_BooksView": {
+    "rating": true
+  },
+  "quick_start_guide_added": true,
+  "qv_open_at_shutdown": false,
+  "recently_used_languages": [
+    "English",
+    "Portuguese"
+  ],
+  "replace_scene_breaks_history": [
+    "",
+    "<hr />",
+    "∗ ∗ ∗",
+    "• • •",
+    "♦ ♦ ♦",
+    "† †",
+    "‡ ‡ ‡",
+    "∞ ∞ ∞",
+    "¤ ¤ ¤"
+  ],
+  "search bar visible": true,
+  "show_vl_tabs": true,
+  "tag browser search box visible": false
+}

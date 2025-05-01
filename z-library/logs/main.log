@@ -1,0 +1,404 @@
+[2025-04-27 14:03:23.411] [info]  initing....
+[2025-04-27 14:03:24.294] [info]  Opening an app
+[2025-04-27 14:03:24.377] [info]  Trying to fetch domains from the list: ["zlibrary-ru.se","z-lib.bz","z-lib.fo","proxy.zlibraryproxies.workers.dev","1lib.sk","z-lib.gs","z-lib.fm","z-lib.gd","z-lib.gl","z-lib.nz","z-library.sk"]
+[2025-04-27 14:03:25.028] [info]  Trying to find the best domain from list: ["z-library.sk","z-lib.gd","z-lib.gl","z-lib.ps","z-library.gs","z-library.ec","z-lib.fm","z-lib.fo","z-lib.bz","1lib.sk","articles.sk","article.sk","z-lib.help","z-lib.sx","articles24t2d47kb6rbabobokvrnymh2smkleosntcu6qxou6sxewyd.onion","openzlib.link","bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion","cnlib.icu","incudream.com","pdffree.store","gopi.monster","librerialibre.eu","wesinx.com","quasieconomist.online","quasieconomist.org","ws3917.site","z-library.website","keypaperi.top","writesomething.sbs","forthriver.xyz","homeonet.tech","grababook.shop","Kcai.eu","lichaobooks.top","101ml.life","knowledgeseeker.site","zlibrary-ru.se","z-lib.bz","z-lib.fo","proxy.zlibraryproxies.workers.dev","1lib.sk","z-lib.gs","z-lib.fm","z-lib.gd","z-lib.gl","z-lib.nz","z-library.sk"]
+[2025-04-27 14:03:25.779] [info]  The best domain was founded: z-lib.fo
+[2025-04-27 14:03:25.795] [warn]  Unable to get user's credentials
+[2025-04-27 14:03:50.600] [info]  connectToLibrary() successful!
+[2025-04-27 14:03:57.246] [debug] { media: false, projects: false }
+[2025-04-27 14:03:57.945] [info]  Loaded overlays
+[2025-04-27 14:03:57.950] [debug] Opening tab !user-popup
+[2025-04-27 14:03:57.953] [debug] Creating a new tab
+[2025-04-27 14:03:57.958] [debug] Init navigation listeners
+[2025-04-27 14:03:57.964] [info]  URL is https://en.z-lib.fo/profile
+[2025-04-27 14:03:57.965] [info]  Domain is: z-lib.fo
+[2025-04-27 14:03:57.973] [debug] did-start-navigation
+[2025-04-27 14:03:57.997] [debug] Opening tab !home
+[2025-04-27 14:03:57.998] [debug] Creating a new tab
+[2025-04-27 14:03:58.002] [debug] Init navigation listeners
+[2025-04-27 14:03:58.007] [info]  URL is https://en.z-lib.fo/
+[2025-04-27 14:03:58.011] [info]  Domain is: z-lib.fo
+[2025-04-27 14:03:58.044] [debug] did-start-navigation
+[2025-04-27 14:03:58.134] [info]  Language code: en
+[2025-04-27 14:03:58.135] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-27 14:03:58.189] [debug] will-redirect
+[2025-04-27 14:03:58.301] [info]  Language code: en
+[2025-04-27 14:03:58.302] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-27 14:03:58.441] [debug] did-navigate
+[2025-04-27 14:03:58.442] [info]  Url changes https://en.z-lib.fo/profile/42714961/56f030
+[2025-04-27 14:03:58.532] [debug] title updated: My profile | Z-Library
+[2025-04-27 14:03:58.834] [debug] did-navigate
+[2025-04-27 14:03:58.838] [info]  Url changes https://en.z-lib.fo/
+[2025-04-27 14:03:58.970] [debug] title updated: Z-Library – the world’s largest e-book library. Your gateway to knowledge and culture.
+[2025-04-27 14:03:59.114] [debug] did-start-navigation
+[2025-04-27 14:03:59.527] [debug] did-start-navigation
+[2025-04-27 14:04:00.134] [debug] did-finish-load
+[2025-04-27 14:04:00.410] [debug] did-finish-load
+[2025-04-27 14:08:15.315] [debug] did-start-navigation
+[2025-04-27 14:08:15.317] [debug] will-navigate
+[2025-04-27 14:08:15.502] [debug] will-redirect
+[2025-04-27 14:08:16.233] [debug] did-navigate
+[2025-04-27 14:08:16.235] [info]  Url changes https://en.z-lib.fo/s/Daily%20Life%20in%20Ancient%20Rome%20by%20J%C3%A9r%C3%B4me%20Carcopino
+[2025-04-27 14:08:16.303] [debug] title updated: Daily Life in Ancient Rome by Jérôme Carcopino: search on Z-Library
+[2025-04-27 14:08:16.645] [debug] did-start-navigation
+[2025-04-27 14:08:17.776] [debug] did-finish-load
+[2025-04-27 14:08:43.847] [debug] did-start-navigation
+[2025-04-27 14:08:43.848] [debug] will-navigate
+[2025-04-27 14:08:44.349] [debug] did-navigate
+[2025-04-27 14:08:44.350] [info]  Url changes https://z-lib.fo/s/Daily%20Life%20in%20Ancient%20Rome%20by%20J%C3%A9r%C3%B4me%20Carcopino?content_type=article&page=1
+[2025-04-27 14:08:44.470] [debug] title updated: Daily Life in Ancient Rome by Jérôme Carcopino: search on Z-Library
+[2025-04-27 14:08:44.864] [debug] did-start-navigation
+[2025-04-27 14:08:45.536] [debug] did-finish-load
+[2025-04-27 14:08:49.465] [debug] did-start-navigation
+[2025-04-27 14:08:49.467] [debug] will-navigate
+[2025-04-27 14:08:49.783] [debug] did-navigate
+[2025-04-27 14:08:49.784] [info]  Url changes https://z-lib.fo/s/Daily%20Life%20in%20Ancient%20Rome%20by%20J%C3%A9r%C3%B4me%20Carcopino?content_type=book&page=1
+[2025-04-27 14:08:49.842] [debug] title updated: Daily Life in Ancient Rome by Jérôme Carcopino: search on Z-Library
+[2025-04-27 14:08:50.040] [debug] did-start-navigation
+[2025-04-27 14:08:50.823] [debug] did-finish-load
+[2025-04-27 14:08:52.226] [debug] Opening tab c353af32-3a53-472c-a623-db7fa5c2703c
+[2025-04-27 14:08:52.226] [debug] Creating a new tab
+[2025-04-27 14:08:52.235] [debug] Init navigation listeners
+[2025-04-27 14:08:52.237] [info]  URL is https://en.z-lib.fo/
+[2025-04-27 14:08:52.237] [info]  Domain is: z-lib.fo
+[2025-04-27 14:08:52.252] [debug] did-start-navigation
+[2025-04-27 14:08:52.305] [debug] did-start-navigation
+[2025-04-27 14:08:52.393] [info]  Language code: en
+[2025-04-27 14:08:52.393] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-27 14:08:52.546] [debug] did-navigate
+[2025-04-27 14:08:52.554] [info]  Url changes https://z-lib.fo/book/890043/5cb652/daily-life-in-ancient-rome-the-people-and-the-city-at-the-height-of-the-empire-a-peregrine-book-y2.html
+[2025-04-27 14:08:52.672] [debug] title updated: Daily Life in Ancient Rome: The People and the City at the Height of the Empire (A Peregrine Book Y23) | Jerome Carcopino | download on Z-Library
+[2025-04-27 14:08:53.935] [debug] did-start-navigation
+[2025-04-27 14:08:56.249] [debug] did-finish-load
+[2025-04-27 14:08:59.410] [debug] did-start-navigation
+[2025-04-27 14:08:59.412] [debug] will-navigate
+[2025-04-27 14:09:00.129] [debug] did-navigate
+[2025-04-27 14:09:00.130] [info]  Url changes https://z-lib.fo/
+[2025-04-27 14:09:00.203] [debug] title updated: Z-Library – the world’s largest e-book library. Your gateway to knowledge and culture.
+[2025-04-27 14:09:00.554] [debug] did-start-navigation
+[2025-04-27 14:09:00.870] [debug] did-finish-load
+[2025-04-27 14:09:09.928] [debug] did-start-navigation
+[2025-04-27 14:09:09.930] [debug] will-navigate
+[2025-04-27 14:09:10.104] [debug] will-redirect
+[2025-04-27 14:09:10.383] [debug] did-navigate
+[2025-04-27 14:09:10.389] [info]  Url changes https://z-lib.fo/s/Daily%20Life%20in%20Ancient%20Rome%20by%20J%C3%A9r%C3%B4me%20Carcopino
+[2025-04-27 14:09:10.419] [debug] title updated: Daily Life in Ancient Rome by Jérôme Carcopino: search on Z-Library
+[2025-04-27 14:09:10.614] [debug] did-start-navigation
+[2025-04-27 14:09:11.210] [debug] did-finish-load
+[2025-04-27 14:09:13.636] [debug] Opening tab 8cc0f187-ac04-4caa-92d9-7a6b0dbabc0f
+[2025-04-27 14:09:13.637] [debug] Creating a new tab
+[2025-04-27 14:09:13.641] [debug] Init navigation listeners
+[2025-04-27 14:09:13.646] [info]  URL is https://en.z-lib.fo/
+[2025-04-27 14:09:13.646] [info]  Domain is: z-lib.fo
+[2025-04-27 14:09:13.659] [debug] did-start-navigation
+[2025-04-27 14:09:13.697] [debug] did-start-navigation
+[2025-04-27 14:09:13.832] [info]  Language code: en
+[2025-04-27 14:09:13.835] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-27 14:09:13.937] [debug] did-navigate
+[2025-04-27 14:09:13.938] [info]  Url changes https://z-lib.fo/book/1249318/9454bd/daily-life-in-ancient-rome-peregrine-books.html
+[2025-04-27 14:09:14.039] [debug] title updated: Daily Life in Ancient Rome (Peregrine Books) | Jérôme Carcopino, H.T. Rowell, E.O. Lorimer | download on Z-Library
+[2025-04-27 14:09:14.659] [debug] did-start-navigation
+[2025-04-27 14:09:15.110] [debug] did-finish-load
+[2025-04-27 14:09:24.216] [debug] did-start-navigation
+[2025-04-27 14:09:24.217] [debug] will-navigate
+[2025-04-27 14:09:25.011] [debug] did-navigate
+[2025-04-27 14:09:25.013] [info]  Url changes https://z-lib.fo/
+[2025-04-27 14:09:25.040] [debug] title updated: Z-Library – the world’s largest e-book library. Your gateway to knowledge and culture.
+[2025-04-27 14:09:25.462] [debug] did-start-navigation
+[2025-04-27 14:09:26.523] [debug] did-finish-load
+[2025-04-27 14:09:39.792] [debug] Opening tab 9d2de310-dba3-469b-a1a2-059ffe1c0953
+[2025-04-27 14:09:39.793] [debug] Creating a new tab
+[2025-04-27 14:09:39.797] [debug] Init navigation listeners
+[2025-04-27 14:09:39.798] [info]  URL is https://en.z-lib.fo/
+[2025-04-27 14:09:39.799] [info]  Domain is: z-lib.fo
+[2025-04-27 14:09:39.810] [debug] did-start-navigation
+[2025-04-27 14:09:39.855] [debug] did-start-navigation
+[2025-04-27 14:09:40.211] [debug] did-navigate
+[2025-04-27 14:09:40.216] [info]  Url changes https://z-lib.fo/book/1571773/c2a990/fahrenheit-451.html?dsource=recommend
+[2025-04-27 14:09:40.377] [debug] title updated: Fahrenheit 451 | Ray Bradbury | download on Z-Library
+[2025-04-27 14:09:43.654] [debug] did-start-navigation
+[2025-04-27 14:09:46.767] [info]  Language code: en
+[2025-04-27 14:09:46.772] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-27 14:09:50.264] [debug] did-finish-load
+[2025-04-27 14:09:53.993] [debug] did-start-navigation
+[2025-04-27 14:09:53.994] [debug] will-navigate
+[2025-04-27 14:09:55.937] [debug] will-redirect
+[2025-04-27 14:10:48.695] [debug] Opening tab 72ee6316-7827-4291-9bbb-f1a4670767a6
+[2025-04-27 14:10:48.696] [debug] Creating a new tab
+[2025-04-27 14:10:48.700] [debug] Init navigation listeners
+[2025-04-27 14:10:48.704] [info]  URL is https://en.z-lib.fo/
+[2025-04-27 14:10:48.705] [info]  Domain is: z-lib.fo
+[2025-04-27 14:10:48.737] [debug] did-start-navigation
+[2025-04-27 14:10:48.783] [debug] did-start-navigation
+[2025-04-27 14:10:48.982] [info]  Language code: en
+[2025-04-27 14:10:48.982] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-27 14:10:49.070] [debug] did-navigate
+[2025-04-27 14:10:49.071] [info]  Url changes https://z-lib.fo/book/4200659/b14501/the-grapes-of-wrath.html?dsource=recommend
+[2025-04-27 14:10:49.150] [debug] title updated: The Grapes of Wrath | John Steinbeck | download on Z-Library
+[2025-04-27 14:10:50.051] [debug] did-start-navigation
+[2025-04-27 14:10:51.898] [debug] did-start-navigation
+[2025-04-27 14:10:51.898] [debug] will-navigate
+[2025-04-27 14:10:52.397] [debug] did-finish-load
+[2025-04-27 14:10:53.054] [debug] will-redirect
+[2025-04-27 14:38:20.351] [debug] Opening tab 8cc0f187-ac04-4caa-92d9-7a6b0dbabc0f
+[2025-04-27 14:38:20.697] [info]  Language code: en
+[2025-04-27 14:38:20.698] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-27 14:38:29.323] [debug] Opening tab d909779a-aa95-421e-a8f4-da959d4fc8aa
+[2025-04-27 14:38:29.323] [debug] Creating a new tab
+[2025-04-27 14:38:29.348] [debug] Init navigation listeners
+[2025-04-27 14:38:29.349] [info]  URL is https://en.z-lib.fo/
+[2025-04-27 14:38:29.350] [info]  Domain is: z-lib.fo
+[2025-04-27 14:38:29.392] [debug] did-start-navigation
+[2025-04-27 14:38:29.441] [debug] did-start-navigation
+[2025-04-27 14:38:30.366] [info]  Language code: en
+[2025-04-27 14:38:30.371] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-27 14:38:34.996] [debug] did-navigate
+[2025-04-27 14:38:34.999] [info]  Url changes https://z-lib.fo/book/1680536/c5e242/life-of-pi.html?dsource=recommend
+[2025-04-27 14:38:35.137] [debug] title updated: Life Of Pi | Yann Martel | download on Z-Library
+[2025-04-27 14:38:36.320] [debug] did-start-navigation
+[2025-04-27 14:38:36.939] [debug] did-finish-load
+[2025-04-27 14:38:52.003] [debug] Opening tab !home
+[2025-04-27 14:38:52.266] [info]  Language code: en
+[2025-04-27 14:38:52.267] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-27 14:38:57.359] [debug] did-start-navigation
+[2025-04-27 14:38:57.671] [debug] did-navigate
+[2025-04-27 14:38:57.675] [info]  Url changes https://en.z-lib.fo/booklists
+[2025-04-27 14:38:57.970] [debug] title updated: Public booklists | Z-Library
+[2025-04-27 14:39:02.010] [debug] did-start-navigation
+[2025-04-27 14:39:04.535] [debug] did-finish-load
+[2025-04-27 14:39:16.922] [debug] did-start-navigation
+[2025-04-27 14:39:16.925] [debug] will-navigate
+[2025-04-27 14:39:17.169] [debug] did-navigate
+[2025-04-27 14:39:17.170] [info]  Url changes https://en.z-lib.fo/booklists/my
+[2025-04-27 14:39:17.324] [debug] title updated: My booklists | Z-Library
+[2025-04-27 14:39:17.574] [debug] did-start-navigation
+[2025-04-27 14:39:17.647] [debug] did-finish-load
+[2025-04-27 14:39:19.995] [debug] did-start-navigation
+[2025-04-27 14:39:19.996] [debug] will-navigate
+[2025-04-27 14:39:20.177] [debug] did-navigate
+[2025-04-27 14:39:20.179] [info]  Url changes https://en.z-lib.fo/booklists
+[2025-04-27 14:39:20.213] [debug] title updated: Public booklists | Z-Library
+[2025-04-27 14:39:21.571] [debug] did-start-navigation
+[2025-04-27 14:39:23.541] [debug] did-finish-load
+[2025-04-27 14:39:28.435] [debug] did-start-navigation
+[2025-04-27 14:39:28.437] [debug] will-navigate
+[2025-04-27 14:39:28.755] [debug] did-navigate
+[2025-04-27 14:39:28.756] [info]  Url changes https://en.z-lib.fo/booklists/my
+[2025-04-27 14:39:28.830] [debug] title updated: My booklists | Z-Library
+[2025-04-27 14:39:29.040] [debug] did-start-navigation
+[2025-04-27 14:39:29.159] [debug] did-finish-load
+[2025-04-27 14:39:57.109] [debug] did-start-navigation
+[2025-04-27 14:39:57.111] [debug] will-navigate
+[2025-04-27 14:39:57.496] [debug] did-navigate
+[2025-04-27 14:39:57.499] [info]  Url changes https://en.z-lib.fo/booklist/2492085/4d9b5c?new
+[2025-04-27 14:39:57.577] [debug] title updated: My Books — Booklist | Z-Library
+[2025-04-27 14:39:57.891] [debug] did-start-navigation
+[2025-04-27 14:39:58.512] [debug] did-finish-load
+[2025-04-27 14:40:02.305] [debug] Opening tab d909779a-aa95-421e-a8f4-da959d4fc8aa
+[2025-04-27 14:40:02.551] [info]  Language code: en
+[2025-04-27 14:40:02.551] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-27 14:40:13.508] [debug] Removing tab d909779a-aa95-421e-a8f4-da959d4fc8aa
+[2025-04-27 14:40:13.510] [debug] Opening tab !home
+[2025-04-27 14:40:13.779] [info]  Language code: en
+[2025-04-27 14:40:13.780] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-27 14:40:15.317] [debug] Opening tab 9d2de310-dba3-469b-a1a2-059ffe1c0953
+[2025-04-27 14:40:15.451] [info]  Language code: en
+[2025-04-27 14:40:15.451] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-27 14:40:15.843] [debug] Removing tab 9d2de310-dba3-469b-a1a2-059ffe1c0953
+[2025-04-27 14:40:15.845] [debug] Opening tab !home
+[2025-04-27 14:40:15.988] [info]  Language code: en
+[2025-04-27 14:40:15.989] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-27 14:40:17.081] [debug] Removing tab 72ee6316-7827-4291-9bbb-f1a4670767a6
+[2025-04-27 14:40:17.199] [info]  Language code: en
+[2025-04-27 14:40:17.200] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-27 14:40:20.153] [debug] Removing tab c353af32-3a53-472c-a623-db7fa5c2703c
+[2025-04-27 14:40:20.273] [info]  Language code: en
+[2025-04-27 14:40:20.273] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-28 21:59:58.955] [info]  initing....
+[2025-04-28 22:00:00.269] [info]  Opening an app
+[2025-04-28 22:00:00.305] [info]  Trying to fetch domains from the list: ["z-library.sk","z-lib.gd","z-lib.gl","z-lib.ps","z-library.gs","z-library.ec","z-lib.fm","z-lib.fo","z-lib.bz","1lib.sk","articles.sk","article.sk","z-lib.help","z-lib.sx","articles24t2d47kb6rbabobokvrnymh2smkleosntcu6qxou6sxewyd.onion","openzlib.link","bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion","cnlib.icu","incudream.com","pdffree.store","gopi.monster","librerialibre.eu","wesinx.com","quasieconomist.online","quasieconomist.org","ws3917.site","z-library.website","keypaperi.top","writesomething.sbs","forthriver.xyz","homeonet.tech","grababook.shop","Kcai.eu","lichaobooks.top","101ml.life","knowledgeseeker.site"]
+[2025-04-28 22:00:00.767] [info]  Trying to find the best domain from list: ["z-library.sk","z-lib.gd","z-lib.gl","z-lib.ps","z-library.gs","z-library.ec","z-lib.fm","z-lib.fo","z-lib.bz","1lib.sk","articles.sk","article.sk","z-lib.help","z-lib.sx","articles24t2d47kb6rbabobokvrnymh2smkleosntcu6qxou6sxewyd.onion","openzlib.link","bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion","cnlib.icu","incudream.com","pdffree.store","gopi.monster","librerialibre.eu","wesinx.com","quasieconomist.online","quasieconomist.org","ws3917.site","z-library.website","keypaperi.top","writesomething.sbs","forthriver.xyz","homeonet.tech","grababook.shop","Kcai.eu","lichaobooks.top","101ml.life","knowledgeseeker.site","zlibrary-ru.se","z-lib.bz","z-lib.fo","proxy.zlibraryproxies.workers.dev","1lib.sk","z-lib.gs","z-lib.fm","z-lib.gd","z-lib.gl","z-lib.nz","z-library.sk"]
+[2025-04-28 22:00:01.042] [info]  The best domain was founded: z-library.sk
+[2025-04-28 22:00:01.195] [info]  connectToLibrary() successful!
+[2025-04-28 22:00:08.036] [debug] { media: false, projects: false }
+[2025-04-28 22:00:08.755] [info]  Loaded overlays
+[2025-04-28 22:00:08.760] [debug] Opening tab !user-popup
+[2025-04-28 22:00:08.761] [debug] Creating a new tab
+[2025-04-28 22:00:08.764] [debug] Init navigation listeners
+[2025-04-28 22:00:08.772] [info]  URL is https://en.z-library.sk/profile
+[2025-04-28 22:00:08.773] [info]  Domain is: z-library.sk
+[2025-04-28 22:00:08.782] [debug] did-start-navigation
+[2025-04-28 22:00:08.802] [debug] Opening tab !home
+[2025-04-28 22:00:08.807] [debug] Creating a new tab
+[2025-04-28 22:00:08.821] [debug] Init navigation listeners
+[2025-04-28 22:00:08.829] [info]  URL is https://en.z-library.sk/
+[2025-04-28 22:00:08.829] [info]  Domain is: z-library.sk
+[2025-04-28 22:00:08.846] [debug] did-start-navigation
+[2025-04-28 22:00:08.938] [info]  Language code: en
+[2025-04-28 22:00:08.939] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-28 22:00:09.040] [debug] will-redirect
+[2025-04-28 22:00:09.114] [debug] did-navigate
+[2025-04-28 22:00:09.119] [info]  Url changes https://en.z-library.sk/
+[2025-04-28 22:00:09.151] [info]  Language code: en
+[2025-04-28 22:00:09.153] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-28 22:00:09.259] [debug] did-navigate
+[2025-04-28 22:00:09.259] [info]  Url changes https://en.z-library.sk/profile/42714961/56f030
+[2025-04-28 22:00:09.379] [debug] title updated: Z-library Project - eBook Library Z. Download free Books
+[2025-04-28 22:00:09.418] [debug] title updated: My profile | Z-Library
+[2025-04-28 22:00:10.080] [debug] did-start-navigation
+[2025-04-28 22:00:10.280] [debug] did-start-navigation
+[2025-04-28 22:00:10.766] [debug] did-finish-load
+[2025-04-28 22:00:11.211] [debug] did-finish-load
+[2025-04-28 22:00:31.631] [debug] Opening tab eb0e4cf8-63dc-4ae1-927e-eedcd410310a
+[2025-04-28 22:00:31.633] [debug] Creating a new tab
+[2025-04-28 22:00:31.636] [debug] Init navigation listeners
+[2025-04-28 22:00:31.640] [info]  URL is https://en.z-library.sk/
+[2025-04-28 22:00:31.641] [info]  Domain is: z-library.sk
+[2025-04-28 22:00:31.648] [debug] did-start-navigation
+[2025-04-28 22:00:31.691] [debug] did-start-navigation
+[2025-04-28 22:00:31.907] [debug] did-navigate
+[2025-04-28 22:00:31.908] [info]  Url changes https://en.z-library.sk/book/1047999/68c39c/notes-from-underground-everymans-library.html?dsource=recommend
+[2025-04-28 22:00:31.958] [info]  Language code: en
+[2025-04-28 22:00:31.959] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-28 22:00:32.014] [debug] title updated: Notes from Underground (Everyman's Library) | Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky | download on Z-Library
+[2025-04-28 22:00:33.281] [debug] did-start-navigation
+[2025-04-28 22:00:34.733] [debug] Opening tab !home
+[2025-04-28 22:00:34.884] [info]  Language code: en
+[2025-04-28 22:00:34.885] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-28 22:00:36.086] [debug] did-finish-load
+[2025-04-28 22:00:36.727] [debug] Opening tab b07cf310-402f-42b6-b4a7-022195b6eaa9
+[2025-04-28 22:00:36.728] [debug] Creating a new tab
+[2025-04-28 22:00:36.737] [debug] Init navigation listeners
+[2025-04-28 22:00:36.739] [info]  URL is https://en.z-library.sk/
+[2025-04-28 22:00:36.739] [info]  Domain is: z-library.sk
+[2025-04-28 22:00:36.744] [debug] did-start-navigation
+[2025-04-28 22:00:36.780] [debug] did-start-navigation
+[2025-04-28 22:00:36.902] [info]  Language code: en
+[2025-04-28 22:00:36.903] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-28 22:00:36.996] [debug] did-navigate
+[2025-04-28 22:00:37.002] [info]  Url changes https://en.z-library.sk/book/1611408/a77d27/catch22.html?dsource=recommend
+[2025-04-28 22:00:37.101] [debug] title updated: Catch-22 | Joseph Heller | download on Z-Library
+[2025-04-28 22:00:38.267] [debug] did-start-navigation
+[2025-04-28 22:00:38.678] [debug] Opening tab eb0e4cf8-63dc-4ae1-927e-eedcd410310a
+[2025-04-28 22:00:38.828] [info]  Language code: en
+[2025-04-28 22:00:38.828] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-28 22:00:41.105] [debug] did-finish-load
+[2025-04-28 22:27:35.948] [debug] Opening tab b07cf310-402f-42b6-b4a7-022195b6eaa9
+[2025-04-28 22:27:36.313] [info]  Language code: en
+[2025-04-28 22:27:36.314] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-28 22:28:14.236] [debug] did-start-navigation
+[2025-04-28 22:28:14.239] [debug] will-navigate
+[2025-04-28 22:28:14.551] [debug] did-navigate
+[2025-04-28 22:28:14.553] [info]  Url changes https://en.z-library.sk/
+[2025-04-28 22:28:14.593] [debug] title updated: Z-library Project - eBook Library Z. Download free Books
+[2025-04-28 22:28:15.150] [debug] did-start-navigation
+[2025-04-28 22:28:15.506] [debug] did-finish-load
+[2025-04-28 22:28:32.355] [debug] Opening tab !home
+[2025-04-28 22:28:32.643] [info]  Language code: en
+[2025-04-28 22:28:32.644] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-28 22:28:35.237] [debug] did-start-navigation
+[2025-04-28 22:28:35.486] [debug] did-navigate
+[2025-04-28 22:28:35.487] [info]  Url changes https://en.z-library.sk/booklists
+[2025-04-28 22:28:35.540] [debug] title updated: Public booklists | Z-Library
+[2025-04-28 22:28:36.402] [debug] did-start-navigation
+[2025-04-28 22:28:38.649] [debug] did-finish-load
+[2025-04-28 22:28:41.102] [debug] did-start-navigation
+[2025-04-28 22:28:41.104] [debug] will-navigate
+[2025-04-28 22:28:41.338] [debug] did-navigate
+[2025-04-28 22:28:41.339] [info]  Url changes https://en.z-library.sk/booklists/my
+[2025-04-28 22:28:41.364] [debug] title updated: My booklists | Z-Library
+[2025-04-28 22:28:41.547] [debug] did-start-navigation
+[2025-04-28 22:28:41.701] [debug] did-finish-load
+[2025-04-28 22:28:45.976] [debug] did-start-navigation
+[2025-04-28 22:28:45.976] [debug] will-navigate
+[2025-04-28 22:28:46.236] [debug] did-navigate
+[2025-04-28 22:28:46.236] [info]  Url changes https://en.z-library.sk/booklists
+[2025-04-28 22:28:46.277] [debug] title updated: Public booklists | Z-Library
+[2025-04-28 22:28:46.964] [debug] did-start-navigation
+[2025-04-28 22:28:49.096] [debug] did-finish-load
+[2025-04-28 22:28:50.512] [debug] did-start-navigation
+[2025-04-28 22:28:50.722] [debug] did-navigate
+[2025-04-28 22:28:50.724] [info]  Url changes https://en.z-library.sk/users/favorites
+[2025-04-28 22:28:50.767] [debug] title updated: Favorites | Z-Library
+[2025-04-28 22:28:51.112] [debug] did-start-navigation
+[2025-04-28 22:28:51.492] [debug] did-finish-load
+[2025-04-28 22:28:58.116] [debug] did-start-navigation
+[2025-04-28 22:28:58.424] [debug] did-navigate
+[2025-04-28 22:28:58.425] [info]  Url changes https://en.z-library.sk/users/favorites
+[2025-04-28 22:28:58.566] [debug] did-start-navigation
+[2025-04-28 22:28:58.672] [debug] did-finish-load
+[2025-04-28 22:29:00.296] [debug] did-start-navigation
+[2025-04-28 22:29:00.592] [debug] did-navigate
+[2025-04-28 22:29:00.593] [info]  Url changes https://en.z-library.sk/booklists
+[2025-04-28 22:29:00.650] [debug] title updated: Public booklists | Z-Library
+[2025-04-28 22:29:01.279] [debug] did-start-navigation
+[2025-04-28 22:29:01.590] [debug] did-start-navigation
+[2025-04-28 22:29:01.594] [warn]  Error: ERR_ABORTED (-3) loading 'https://en.z-library.sk/booklists/favorite'
+    at rejectAndCleanup (node:electron/js2c/browser_init:2:77679)
+    at EventEmitter.navigationListener (node:electron/js2c/browser_init:2:77985)
+    at EventEmitter.emit (node:events:525:35)
+[2025-04-28 22:29:01.594] [debug] will-navigate
+[2025-04-28 22:29:01.683] [debug] did-finish-load
+[2025-04-28 22:29:01.906] [debug] did-navigate
+[2025-04-28 22:29:01.908] [info]  Url changes https://en.z-library.sk/booklists/favorite
+[2025-04-28 22:29:01.950] [debug] title updated: Favorite booklists | Z-Library
+[2025-04-28 22:29:02.165] [debug] did-start-navigation
+[2025-04-28 22:29:02.354] [debug] did-finish-load
+[2025-04-28 22:29:12.784] [debug] did-start-navigation
+[2025-04-28 22:29:12.785] [debug] will-navigate
+[2025-04-28 22:29:14.800] [debug] did-navigate
+[2025-04-28 22:29:14.803] [info]  Url changes https://en.z-library.sk/booklist/27086/cc3f23/101-books.html
+[2025-04-28 22:29:14.833] [debug] title updated: 101 books — Booklist | Z-Library
+[2025-04-28 22:29:15.033] [debug] did-start-navigation
+[2025-04-28 22:29:15.916] [debug] did-finish-load
+[2025-04-28 22:29:47.260] [debug] did-start-navigation
+[2025-04-28 22:29:47.839] [debug] did-navigate
+[2025-04-28 22:29:47.841] [info]  Url changes https://en.z-library.sk/booklists
+[2025-04-28 22:29:47.889] [debug] title updated: Public booklists | Z-Library
+[2025-04-28 22:29:48.456] [debug] did-start-navigation
+[2025-04-28 22:29:49.701] [debug] did-start-navigation
+[2025-04-28 22:29:49.703] [warn]  Error: ERR_ABORTED (-3) loading 'https://en.z-library.sk/booklists/my'
+    at rejectAndCleanup (node:electron/js2c/browser_init:2:77679)
+    at EventEmitter.navigationListener (node:electron/js2c/browser_init:2:77985)
+    at EventEmitter.emit (node:events:525:35)
+[2025-04-28 22:29:49.703] [debug] will-navigate
+[2025-04-28 22:29:50.414] [debug] did-navigate
+[2025-04-28 22:29:50.415] [info]  Url changes https://en.z-library.sk/booklists/my
+[2025-04-28 22:29:50.455] [debug] title updated: My booklists | Z-Library
+[2025-04-28 22:29:50.562] [debug] did-start-navigation
+[2025-04-28 22:29:50.707] [debug] did-finish-load
+[2025-04-29 08:55:50.389] [debug] Opening tab 5307ebdb-b553-4b6c-8ebb-d9e24c3aa7d0
+[2025-04-29 08:55:50.398] [debug] Creating a new tab
+[2025-04-29 08:55:50.452] [debug] Init navigation listeners
+[2025-04-29 08:55:50.453] [info]  URL is https://en.z-library.sk/
+[2025-04-29 08:55:50.454] [info]  Domain is: z-library.sk
+[2025-04-29 08:55:50.492] [debug] did-start-navigation
+[2025-04-29 08:55:50.719] [debug] did-start-navigation
+[2025-04-29 08:55:51.000] [info]  Language code: en
+[2025-04-29 08:55:51.001] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-29 08:55:51.217] [debug] did-navigate
+[2025-04-29 08:55:51.219] [info]  Url changes https://en.z-library.sk/book/1198155/150eea/life-of-pi.html
+[2025-04-29 08:55:51.320] [debug] title updated: Life Of Pi | Yann Martel | download on Z-Library
+[2025-04-29 08:55:52.584] [debug] did-start-navigation
+[2025-04-29 08:55:55.033] [debug] did-finish-load
+[2025-04-29 08:56:22.539] [debug] Removing tab 5307ebdb-b553-4b6c-8ebb-d9e24c3aa7d0
+[2025-04-29 08:56:22.540] [debug] Opening tab !home
+[2025-04-29 08:56:22.729] [info]  Language code: en
+[2025-04-29 08:56:22.730] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-29 08:56:24.153] [debug] Opening tab 70e8a198-6a9e-4dad-8e21-58f530d9d84e
+[2025-04-29 08:56:24.154] [debug] Creating a new tab
+[2025-04-29 08:56:24.157] [debug] Init navigation listeners
+[2025-04-29 08:56:24.158] [info]  URL is https://en.z-library.sk/
+[2025-04-29 08:56:24.159] [info]  Domain is: z-library.sk
+[2025-04-29 08:56:24.179] [debug] did-start-navigation
+[2025-04-29 08:56:24.201] [debug] did-start-navigation
+[2025-04-29 08:56:24.309] [info]  Language code: en
+[2025-04-29 08:56:24.310] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar
+[2025-04-29 08:56:24.523] [debug] did-navigate
+[2025-04-29 08:56:24.524] [info]  Url changes https://en.z-library.sk/book/1571773/c2a990/fahrenheit-451.html
+[2025-04-29 08:56:24.615] [debug] title updated: Fahrenheit 451 | Ray Bradbury | download on Z-Library
+[2025-04-29 08:56:25.548] [debug] did-start-navigation
+[2025-04-29 08:56:27.905] [debug] did-finish-load
+[2025-04-29 09:11:11.886] [debug] Opening tab eb0e4cf8-63dc-4ae1-927e-eedcd410310a
+[2025-04-29 09:11:12.175] [info]  Language code: en
+[2025-04-29 09:11:12.176] [debug] URL: file:///opt/Z-Library/resources/app.asar/dist/index.html?path=sideBar

@@ -1,0 +1,2 @@
+ERROR: Exception occurred: There is no such extension deployed: org.Zotero.integration.openoffice at ./desktop/source/deployment/manager/dp_manager.cxx:970
+ERROR: unopkg failed.

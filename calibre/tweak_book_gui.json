@@ -1,0 +1,414 @@
+{
+  "add-cover-wizard-splitter-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABGAAAASwB/////wEAAAABAA=="
+  },
+  "auto_link_stylesheets": true,
+  "check-book-splitter-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAAARgAAAEYA/////wEAAAABAA=="
+  },
+  "css-editor-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAD9AAAAAAAAA2kAAAIgAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAUAGEAYwB0AGkAbwBuAF8AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAF8AYgBhAHIBAAAA3f////8AAAAAAAAAAA=="
+  },
+  "custom_colors_for_color_dialog": [
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ]
+  ],
+  "find-widget-state": {
+    "case_sensitive": false,
+    "direction": "down",
+    "dot_all": false,
+    "mode": "normal",
+    "where": "current",
+    "wrap": true
+  },
+  "geometry-of-add-cover-wizard-geometry": {
+    "frame_geometry": {
+      "height": 543,
+      "width": 602,
+      "x": 372,
+      "y": 51
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 515,
+      "width": 602,
+      "x": 372,
+      "y": 79
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 515,
+      "width": 602,
+      "x": 372,
+      "y": 79
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAF0AAAAMwAAA80AAAJRAAABdAAAAE8AAAPNAAACUQAAAAAAAAAABVYAAAF0AAAATwAAA80AAAJR"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "ZTR",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1368,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-download-external-resources-geometry": {
+    "frame_geometry": {
+      "height": 528,
+      "width": 800,
+      "x": 273,
+      "y": 58
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 500,
+      "width": 800,
+      "x": 273,
+      "y": 86
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 500,
+      "width": 800,
+      "x": 273,
+      "y": 86
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAERAAAAOgAABDAAAAJJAAABEQAAAFYAAAQwAAACSQAAAAAAAAAABVYAAAERAAAAVgAABDAAAAJJ"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "ZTR",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1368,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-import-foreign-geometry": {
+    "frame_geometry": {
+      "height": 218,
+      "width": 533,
+      "x": 407,
+      "y": 221
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 190,
+      "width": 533,
+      "x": 407,
+      "y": 249
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 190,
+      "width": 533,
+      "x": 407,
+      "y": 249
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAGXAAAA3QAAA6sAAAG2AAABlwAAAPkAAAOrAAABtgAAAAAAAAAABVYAAAGXAAAA+QAAA6sAAAG2"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "ZTR",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1368,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 724,
+      "width": 1366,
+      "x": 0,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 696,
+      "width": 1366,
+      "x": 0,
+      "y": 28
+    },
+    "maximized": true,
+    "normal_geometry": {
+      "height": 696,
+      "width": 1366,
+      "x": 0,
+      "y": 28
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAALTAAAAAAAAABwAAAVVAAAC0wAAAAACAAAABVYAAAAAAAAAHAAABVUAAALT"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "ZTR",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1368,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-manage-fonts-geometry": {
+    "frame_geometry": {
+      "height": 434,
+      "width": 676,
+      "x": 335,
+      "y": 133
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 406,
+      "width": 676,
+      "x": 335,
+      "y": 161
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 406,
+      "width": 676,
+      "x": 335,
+      "y": 161
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAFPAAAAhQAAA/IAAAI2AAABTwAAAKEAAAPyAAACNgAAAAAAAAAABVYAAAFPAAAAoQAAA/IAAAI2"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "ZTR",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1368,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "html-editor-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAD9AAAAAAAAA2kAAAIgAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGEAYwB0AGkAbwBuAF8AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAF8AYgBhAHIBAAAA3f////8AAAAAAAAAAAAAAB4AaAB0AG0AbABfAGYAbwByAG0AYQB0AF8AYgBhAHIBAAABv/////8AAAAAAAAAAA=="
+  },
+  "image-editor-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAD9AAAAAAAAA2kAAAIgAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGEAYwB0AGkAbwBuAF8AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAACAAZQBkAGkAdAAtAGEAYwB0AGkAbwBuAHMALQBiAGEAcgEAAABS/////wAAAAAAAAAAAAAAHABpAG0AYQBnAGUAXwBpAG4AZgBvAF8AYgBhAHIBAAABNv////8AAAAAAAAAAA=="
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAD9AAAABAAAAAAAAACNAAACY/wCAAAABfsAAAAkAGYAaQBsAGUAcwAtAGIAcgBvAHcAcwBlAHIALQBkAG8AYwBrAQAAAD4AAAJjAAAAWgD////7AAAAHgB0AG8AYwAtAHYAaQBlAHcAZQByAC0AZABvAGMAawAAAAAA/////wAAAFoA////+wAAACAAdABlAHgAdAAtAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAA/////wAAAH0A////+wAAACAAYwBoAGUAYwBrAHAAbwBpAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAIwA////+wAAACYAcwBhAHYAZQBkAC0AcwBlAGEAcgBjAGgAZQBzAC0AZABvAGMAawAAAAAA/////wAAAhUA////AAAAAQAAAVQAAAJj/AIAAAAC+wAAABgAcAByAGUAdgBpAGUAdwAtAGQAbwBjAGsBAAAAPgAAAmMAAABTAP////sAAAAaAGwAaQB2AGUALQBjAHMAcwAtAGQAbwBjAGsAAAAAAP////8AAABaAP///wAAAAIAAAAAAAAAAPwBAAAAAfsAAAAeAGMAaABlAGMAawAtAGIAbwBvAGsALQBkAG8AYwBrAAAAAAD/////AAAAkAD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABpAG4AcwBwAGUAYwB0AG8AcgAtAGQAbwBjAGsAAAAAAP////8AAAA1AP///wAAA2kAAAJjAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGcAbABvAGIAYQBsAC0AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAC0AYgBhAHIBAAABJv////8AAAAAAAAAAAAAABYAcABsAHUAZwBpAG4AcwAtAGIAYQByAAAAAAD/////AAAAAAAAAAA="
+  },
+  "manage-fonts-splitter-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABAAAAASoB/////wEAAAABAA=="
+  },
+  "recent-books": [
+    "/home/gabriel-sousa/Calibre Library/Yann Martel/Life of Pi (20)/Life of Pi - Yann Martel.epub",
+    "/home/gabriel-sousa/duckdns/report.epub",
+    "/home/gabriel-sousa/Calibre Library/William Gibson/Neuromancer (12)/Neuromancer - William Gibson.epub",
+    "/home/gabriel-sousa/Downloads/Dune_Messiah_by_Frank_Herbert_Herbert_Frank__z-lib_org.epub",
+    "/home/gabriel-sousa/Calibre Library/Frank Herbert/Frank Herbert's Dune Saga Collection_ Books 1 - 6 (4)/Frank Herbert's Dune Saga Collection_ Book - Frank Herbert.epub",
+    "/home/gabriel-sousa/Calibre Library/Frank Herbert/Frank Herbert's Dune Saga Collection_ Books 1 - 6 (2)/Frank Herbert's Dune Saga Collection_ Book - Frank Herbert.epub",
+    "/home/gabriel-sousa/Calibre Library/Frank Herbert/Dune (3)/Dune - Frank Herbert.epub"
+  ],
+  "reports-ui-state": {},
+  "saved_seaches_state": {
+    "direction": "down",
+    "where": "current",
+    "wrap": true
+  },
+  "search-panel-visible": false,
+  "text_search_widget_state": {
+    "case_sensitive": false,
+    "dot_all": true,
+    "mode": "normal",
+    "where": "current"
+  }
+}

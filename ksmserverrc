@@ -1,0 +1,22 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+clientMachine1=localhost
+clientMachine2=localhost
+command1=firefox_firefox
+command2=soffice
+count=2
+
+[Session: saved at previous logout]
+clientId1=1017e1c814412a000174470179000000061770005
+clientId2=1017e1c814412a000174470179100000061770006
+count=2
+program1=/usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier
+program2=/usr/bin/kalendarac
+restartCommand1=/usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier,-session,1017e1c814412a000174470179000000061770005_1744728833_988427
+restartCommand2=/usr/bin/kalendarac,-session,1017e1c814412a000174470179100000061770006_1744728833_988486
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=gabriel-sousa
+userId2=gabriel-sousa

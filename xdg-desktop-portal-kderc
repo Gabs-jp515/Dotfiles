@@ -1,0 +1,8 @@
+[FileDialogSize]
+2 screens: Height=512
+2 screens: Width=884
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Music/Muse-showbiz_text.pdf,file:$HOME/Downloads/neuromancer_cover2.xcf,file:$HOME/Downloads/neuromancer_cover.jpg
+Recent URLs[$e]=file:$HOME/.config/nvim/,file:$HOME/Music/,file:$HOME/,file:$HOME/Downloads/
+detailViewIconSize=16

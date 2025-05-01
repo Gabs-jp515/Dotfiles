@@ -1,0 +1,14 @@
+[$Version]
+update_info=fonts_akregator.upd:Plasma_Fonts_Akregator
+
+[MainWindow]
+2 screens: Height=480
+2 screens: Width=817
+2 screens: XPosition=274
+2 screens: YPosition=157
+HDMI-1 eDP-1=eDP-1
+State=AAAA/wAAAAD9AAAAAAAAAzEAAAF7AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Migratekde4]
+Version=1

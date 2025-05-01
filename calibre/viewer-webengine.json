@@ -1,0 +1,160 @@
+{
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 540,
+      "width": 455,
+      "x": 455,
+      "y": 92
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 512,
+      "width": 455,
+      "x": 455,
+      "y": 120
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 512,
+      "width": 455,
+      "x": 455,
+      "y": 120
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAHHAAAAXAAAA40AAAJ3AAABxwAAAHgAAAONAAACdwAAAAAAAAAABVYAAAHHAAAAeAAAA40AAAJ3"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "ZTR",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1368,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIoA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAmgD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACDAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAPIA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAFAD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAANcA////AAABxwAAAgAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "controls_help_shown_count": 2,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Cixin Liu"
+        ],
+        "key": "/home/gabriel-sousa/Calibre Library/Cixin Liu/The Three-Body Problem (11)/The Three-Body Problem - Cixin Liu.mobi",
+        "pathtoebook": "/home/gabriel-sousa/Calibre Library/Cixin Liu/The Three-Body Problem (11)/The Three-Body Problem - Cixin Liu.mobi",
+        "timestamp": "2025-04-29T08:56:11.391Z",
+        "title": "The Three-Body Problem"
+      },
+      {
+        "authors": [
+          "Frank Herbert"
+        ],
+        "key": "/home/gabriel-sousa/Calibre Library/Frank Herbert/Chapterhouse_ Dune (9)/Chapterhouse_ Dune - Frank Herbert.epub",
+        "pathtoebook": "/home/gabriel-sousa/Calibre Library/Frank Herbert/Chapterhouse_ Dune (9)/Chapterhouse_ Dune - Frank Herbert.epub",
+        "timestamp": "2025-04-27T13:42:34.057Z",
+        "title": "Chapterhouse: Dune"
+      },
+      {
+        "authors": [
+          "Franz Kafka"
+        ],
+        "key": "/home/gabriel-sousa/Downloads/pg5200-images.epub",
+        "pathtoebook": "/home/gabriel-sousa/Downloads/pg5200-images.epub",
+        "timestamp": "2025-04-26T14:45:18.573Z",
+        "title": "Metamorphosis"
+      },
+      {
+        "authors": [
+          "Bram Stoker"
+        ],
+        "key": "/home/gabriel-sousa/Downloads/pg345-images.epub",
+        "pathtoebook": "/home/gabriel-sousa/Downloads/pg345-images.epub",
+        "timestamp": "2025-04-26T14:37:05.683Z",
+        "title": "Dracula"
+      },
+      {
+        "authors": [
+          "Frank Herbert"
+        ],
+        "key": "/home/gabriel-sousa/Calibre Library/Frank Herbert/Dune (2)/Dune - Frank Herbert.epub",
+        "pathtoebook": "/home/gabriel-sousa/Calibre Library/Frank Herbert/Dune (2)/Dune - Frank Herbert.epub",
+        "timestamp": "2025-04-25T16:35:20.608Z",
+        "title": "Frank Herbert's Dune Saga Collection: Books 1 - 6"
+      },
+      {
+        "authors": [
+          "William Gibson"
+        ],
+        "key": "/home/gabriel-sousa/Calibre Library/William Gibson/Neuromancer (12)/Neuromancer - William Gibson.epub",
+        "pathtoebook": "/home/gabriel-sousa/Calibre Library/William Gibson/Neuromancer (12)/Neuromancer - William Gibson.epub",
+        "timestamp": "2025-04-25T16:24:55.509Z",
+        "title": "Neuromancer"
+      },
+      {
+        "authors": [
+          "Isaac Asimov"
+        ],
+        "key": "/home/gabriel-sousa/Calibre Library/Isaac Asimov/The Gods Themselves (14)/The Gods Themselves - Isaac Asimov.epub",
+        "pathtoebook": "/home/gabriel-sousa/Calibre Library/Isaac Asimov/The Gods Themselves (14)/The Gods Themselves - Isaac Asimov.epub",
+        "timestamp": "2025-04-25T15:39:50.152Z",
+        "title": "The Gods Themselves"
+      },
+      {
+        "authors": [
+          "John Schember"
+        ],
+        "key": "/home/gabriel-sousa/Calibre Library/John Schember/Quick Start Guide (1)/Quick Start Guide - John Schember.epub",
+        "pathtoebook": "/home/gabriel-sousa/Calibre Library/John Schember/Quick Start Guide (1)/Quick Start Guide - John Schember.epub",
+        "timestamp": "2025-04-25T11:26:35.309Z",
+        "title": "Quick Start Guide"
+      },
+      {
+        "authors": [
+          "Frank Herbert"
+        ],
+        "key": "/home/gabriel-sousa/Calibre Library/Frank Herbert/Frank Herbert's Dune Saga Collection_ Books 1 - 6 (2)/Frank Herbert's Dune Saga Collection_ Book - Frank Herbert.epub",
+        "pathtoebook": "/home/gabriel-sousa/Calibre Library/Frank Herbert/Frank Herbert's Dune Saga Collection_ Books 1 - 6 (2)/Frank Herbert's Dune Saga Collection_ Book - Frank Herbert.epub",
+        "timestamp": "2025-04-25T11:10:08.896Z",
+        "title": "Frank Herbert's Dune Saga Collection: Books 1 - 6"
+      },
+      {
+        "authors": [
+          "Frank Herbert"
+        ],
+        "key": "/home/gabriel-sousa/Calibre Library/Frank Herbert/Frank Herbert's Dune Saga Collection_ Books 1 - 6 (4)/Frank Herbert's Dune Saga Collection_ Book - Frank Herbert.epub",
+        "pathtoebook": "/home/gabriel-sousa/Calibre Library/Frank Herbert/Frank Herbert's Dune Saga Collection_ Books 1 - 6 (4)/Frank Herbert's Dune Saga Collection_ Book - Frank Herbert.epub",
+        "timestamp": "2025-04-25T11:09:06.381Z",
+        "title": "Frank Herbert's Dune Saga Collection: Books 1 - 6"
+      }
+    ]
+  }
+}

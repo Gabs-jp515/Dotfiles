@@ -1,0 +1,4 @@
+[KFileDialog Settings]
+Recent Files[$e]=.Passwords.kdbx,file:$HOME/Programing/.Passwords/.secret-pass,file:$HOME/Programing/.Passwords/.Passwords.kdbx
+Recent URLs[$e]=file:$HOME/Programing/.Passwords/,file:$HOME/Programing/,file:$HOME/
+detailViewIconSize=16

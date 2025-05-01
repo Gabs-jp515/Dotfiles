@@ -1,0 +1,44 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Programing,file:$HOME/Programing/Learning/Learning.md
+Recent URLs[$e]=file:$HOME/,file:$HOME/Programing/
+detailViewIconSize=16
+
+[MainWindow]
+1440x900 screen: Window-Maximized=true
+2 screens: Height=428
+2 screens: Width=910
+2 screens: Window-Maximized=true
+2 screens: XPosition=0
+2 screens: YPosition=70
+HDMI-1 eDP-1=eDP-1
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAC/AAACbPwCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgAAAABMAAACbAAAAQ4BAAACAAAFVgAAAmwAAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Programing/RSS/CERN-Brochure-2021-004-Eng.pdf
+File10[$e]=$HOME/Music/hateThisandLoveyou.pdf
+File2[$e]=$HOME/Downloads/FiraCode_Nerd-Font/README.md
+File3[$e]=$HOME/.SpaceVim/README.md
+File4[$e]=$HOME/Programing/
+File5[$e]=$HOME/Programing/Learning/Learning.md
+File6[$e]=$HOME/Programing/Learning/git_commands.pdf
+File7[$e]=$HOME/School-Auto_Didatic/Precalc2e-openstax.pdf
+File8[$e]=$HOME/School-Auto_Didatic/2007-K.J.G/page_1.pdf
+File9[$e]=$HOME/Programing/Books/web_app/test.jpg
+Name1[$e]=CERN-Brochure-2021-004-Eng.pdf
+Name10[$e]=hateThisandLoveyou.pdf
+Name2[$e]=README.md
+Name3[$e]=README.md
+Name4[$e]=
+Name5[$e]=Learning.md
+Name6[$e]=git_commands.pdf
+Name7[$e]=Precalc2e-openstax.pdf
+Name8[$e]=page_1.pdf
+Name9[$e]=test.jpg

@@ -1,0 +1,84 @@
+{
+  "Export catalog folder": "/media/gabriel-sousa/Books_n_Media",
+  "add books dialog dir": "/home/gabriel-sousa/books",
+  "add books dialog dir-last-used-filter-spec-all-files": false,
+  "catalog_add_to_library": true,
+  "catalog_last_used_title": "myBooks",
+  "catalog_preferred_format": "CSV",
+  "catalog_sync_to_device": true,
+  "catalogs_to_be_synced": {
+    "__class__": "set",
+    "__value__": [
+      24,
+      25
+    ]
+  },
+  "geometry-of-catalog_window_geom": {
+    "frame_geometry": {
+      "height": 674,
+      "width": 1298,
+      "x": 24,
+      "y": 28
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 674,
+      "width": 1298,
+      "x": 24,
+      "y": 28
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 674,
+      "width": 1298,
+      "x": 24,
+      "y": 28
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAYAAAAHAAABSkAAAK9AAAAGAAAABwAAAUpAAACvQAAAAAAAAAABVYAAAAYAAAAHAAABSkAAAK9"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "ZTR",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1368,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "save to disk dialog": "/media/gabriel-sousa/Books_n_Media/books_mobi",
+  "sort_history": [
+    [
+      "rating",
+      true
+    ],
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "kindle",
+  "welcome_wizard_was_run": true
+}
