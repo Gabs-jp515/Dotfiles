@@ -1,7 +1,0 @@
-# This file is created by ibus-daemon, please do not modify it.
-# This file allows processes on the machine to find the
-# ibus session bus with the below address.
-# If the IBUS_ADDRESS environment variable is set, it will
-# be used rather than this file.
-IBUS_ADDRESS=unix:path=/home/gabriel-sousa/.cache/ibus/dbus-MrcDEFGq,guid=87b3be92e51782815d0c2e8567fe8654
-IBUS_DAEMON_PID=6294
